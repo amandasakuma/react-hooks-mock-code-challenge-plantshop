@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Pothos",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Epipremnum_aureum_31082012.jpg/1200px-Epipremnum_aureum_31082012.jpg",
+      "price": "20",
+      "id": 8
     }
   ]
 }
